@@ -1,0 +1,36 @@
+/* Section 1 */
+#intro_page {
+  position: relative;
+  background-image: url("../../assets/gambar/bg_parallax_hd.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.mask_page {
+  position: relative;
+  background-image: linear-gradient(
+    to right,
+    rgba(231, 52, 54, 0.9),
+    rgba(111, 26, 28, 0.9)
+  );
+  height: 100%;
+}
+
+@media all and (min-width: 992px) {
+  #intro_page {
+    position: relative;
+    background-image: url("../../assets/gambar/bg_parallax_hd.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+  }
+
+  #body-header {
+    margin-top: 200px;
+  }
+}
