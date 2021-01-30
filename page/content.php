@@ -105,9 +105,9 @@
             <!--Grid column-->
             <div class="col-6 col-lg-4 col-md-4 col-sm-6" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
                 <div class="p-4 fitur-content">
-                    <img src="assets/icon/ricar.png" alt="" srcset="">
-                    <h6 class="mt-4 fw-bold">RICAR</h6>
-                    <p class="grey-text mt-2">Layanan Transportasi Online Roda 4</p>
+                    <img src="assets/icon/ribike.png" alt="" srcset="">
+                    <h6 class="mt-4 fw-bold">RIBIKE</h6>
+                    <p class="grey-text mt-2">Layanan Transportasi Online Roda 2</p>
                 </div>
             </div>
             <!--Grid column-->
