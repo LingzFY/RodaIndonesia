@@ -5,6 +5,7 @@
 include 'page/header.php';
 
 $page = @$_GET['page'];
+$sub_page = @$_GET['sub_page'];
 switch ($page) {
     case 'about_us':
         include "page/about/about_us.php";
@@ -18,12 +19,52 @@ switch ($page) {
         include "page/info_driver/info_driver.php";
         break;
 
-    case 'projek':
-        include "page/projek/projek.php";
+    case 'ribike':
+        include "page/projek/ribike.php";
+        break;
+
+    case 'ricar':
+        include "page/projek/ricar.php";
+        break;
+
+    case 'ripublic':
+        include "page/projek/ripublic.php";
+        break;
+
+    case 'rimart':
+        include "page/projek/rimart.php";
+        break;
+
+    case 'rifood':
+        include "page/projek/rifood.php";
+        break;
+
+    case 'risend':
+        include "page/projek/risend.php";
+        break;
+
+    case 'ritrip':
+        include "page/projek/ritrip.php";
+        break;
+
+    case 'ridu':
+        include "page/projek/ridu.php";
+        break;
+
+    case 'richat':
+        include "page/projek/richat.php";
         break;
 
     case 'kontak':
         include "page/kontak/kontak_us.php";
+        break;
+
+    case 'kebijakan':
+        if ($sub_page == "kebijakan_privasi") {
+            include "page/kebijakan/kebijakan_privasi.php";
+        } else {
+            include "page/kebijakan/persyaratan_layanan.php";
+        }
         break;
 
     default:
@@ -33,3 +74,5 @@ switch ($page) {
 
 // call footer
 include 'page/footer.php';
+
+?>

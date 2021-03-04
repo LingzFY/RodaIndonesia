@@ -1,70 +1,62 @@
 <!-- About Us Page -->
 
 <!-- Jumbotron -->
-<!-- style="background-color: rgba(0, 0, 0, 0.6)" -->
-<section class="section gradient-banner">
-    <div id="intro_page">
-        <div class="mask_page">
-            <div class="container d-flex align-items-center justify-content-center text-center text-md-start h-100">
-                <div class="container position-relative zindex-2" id="body-header">
-                    <h1 data-aos="fade-up" data-aos-duration="500" class="display-3 text-white mt-2 jumbotron-text">Kontak Kami</h1>
-                    <!-- Heading -->
-                    <nav data-aos="fade-up" data-aos-duration="500" data-aos-delay="500" style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='white'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb" class="mt-4 d-flex align-items-center justify-content-center justify-content-md-start">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#">Roda Indonesia</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Kontak</li>
-                        </ol>
-                    </nav>
+<section class="page-jumbotron d-flex align-items-center">
+    <div class="effect-wrap">
+        <i class="ri-add-fill effect effect-1"></i>
+        <i class="ri-add-fill effect effect-2"></i>
+        <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
+    </div>
+    <div class="container px-5">
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-7 text-center text-lg-start">
+                <div class="jumbotron-text">
+                    <!-- Description -->
+                    <h3>Roda Indonesia</h3>
+                    <h1>Hubungi Kami</h1>
+                </div>
+            </div>
+            <div class="col-12 col-lg-5 text-center">
+                <div class="jumbotron-img">
+                    <div class="circle"></div>
+                    <i class="ri-mail-line"></i>
                 </div>
             </div>
         </div>
-        <svg xmlns="http://www.w3.org/2000/svg" data-aos="fade-left" data-aos-duration="500" data-aos-delay="600" viewBox="-20 0 120 100" class="h-100" style="opacity: 0.5;" preserveAspectRatio="none">
-            <polygon fill="rgba(0,0,0,0.2)" points="0,100 100,0 100,100" />
-        </svg>
-        <svg xmlns="http://www.w3.org/2000/svg" data-aos="fade-left" data-aos-duration="500" data-aos-delay="900" viewBox="0 0 100 60" class="h-75" style="opacity: 0.5;" preserveAspectRatio="none">
-            <polygon fill="rgba(0,0,0,0.2)" points="0,100 100,0 100,100" />
-        </svg>
     </div>
+    <svg xmlns="http://www.w3.org/2000/svg" data-aos="fade-up-left" data-aos-duration="500" data-aos-delay="600" viewBox="0 0 100 100" class="vh-100" preserveAspectRatio="none">
+        <polygon fill="rgba(0,0,0,0.2)" points="0,100 100,0 100,100" />
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" data-aos="fade-up-left" data-aos-duration="500" data-aos-delay="900" viewBox="-50 30 150 70" class="vh-75" preserveAspectRatio="none">
+        <polygon fill="rgba(0,0,0,0.2)" points="0,100 100,0 100,100" />
+    </svg>
 </section>
+<!-- Akhir Jumbotron -->
 
-<section class="maps">
-    <div class="container mt-100px">
+<section class="maps section-padding">
+    <div class="container">
         <div class="row">
-            <div class="col-md-8" id="maps"></div>
-            <div class="col-md-4">
-                <div class="card" id="card-info">
-                    <div class="card-body p-5">
-                        <h3 class="card-title">Info Kontak</h3>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                        <hr class="w-100">
-
-                        <!-- Alamat -->
-                        <div class="row" data-aos="fade-up" data-aos-duration="500">
-                            <div class="col-2 text-danger"><i class="ti-location-pin"></i></div>
-                            <div class="col-10">
-                                <h6 class="fw-bold">Alamat</h6>
-                                <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
-                            </div>
-                        </div>
-
-                        <!-- Email -->
-                        <div class="row mt-2" data-aos="fade-up" data-aos-duration="500">
-                            <div class="col-2 text-danger"><i class="ti-email"></i></div>
-                            <div class="col-10">
-                                <h6 class="fw-bold">Email</h6>
-                                <p>rodaindonesia.1@gmail.com</p>
-                            </div>
-                        </div>
-
-                        <!-- Nomor Telepon -->
-                        <div class="row mt-2" data-aos="fade-up" data-aos-duration="500">
-                            <div class="col-2 text-danger"><i class="ti-mobile"></i></div>
-                            <div class="col-10">
-                                <h6 class="fw-bold">Nomor Telepon</h6>
-                                <p class="mb-0">+62 877 1307 1972</p>
-                                <p class="mb-0">+62 813 2214 6567</p>
-                            </div>
-                        </div>
+            <div class="col-lg-8 col-md-7 px-0 px-md-4" id="maps"></div>
+            <div class="col-lg-4 col-md-5 px-5 pt-5 pt-md-0">
+                <div class="contact-info">
+                    <div class="section-title text-center text-md-start">
+                        <h2><span>Lokasi Perusahaan</span> Kami</h2>
+                    </div>
+                    <div class="contact-info-item">
+                        <i class="ri-compass-discover-fill"></i>
+                        <h4>Alamat Perusahaan</h4>
+                        <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
+                    </div>
+                    <div class="contact-info-item">
+                        <i class="ri-mail-send-fill"></i>
+                        <h4>Email</h4>
+                        <p>rodaindonesia.1@gmail.com</p>
+                    </div>
+                    <div class="contact-info-item">
+                        <i class="ri-phone-fill"></i>
+                        <h4>Nomor Telepon</h4>
+                        <p>+62 877 1307 1972</p>
+                        <p>+62 813 2214 6567</p>
                     </div>
                 </div>
             </div>
@@ -72,41 +64,63 @@
     </div>
 </section>
 
-<!-- Hubungi Kami -->
-<section>
-    <div class="mt-150px pb-100px">
-        <div class="container">
-            <p class="text-center" id="p-uppertitle"><strong>PESAN</strong></p>
-            <h2 class="fw-bold title text-center">Tinggalkan Kami Sebuah Pesan</h2>
-            <hr class="hr-title" style="height: 3px; background-color: rgba(231, 52, 54, 1);">
-            <p class="text-center mt-4">Jika Anda memiliki pertanyaan, cukup isi formulir kontak, dan kami akan segera menjawab Anda.</p>
-            <form class="p-5">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="mb-4">
-                            <label for="exampleFormControlInput1" class="form-label">Nama Lengkap</label>
-                            <input type="text" class="form-control form-control-lg" id="exampleFormControlInput1">
+<!-- kontak section start -->
+<section class="contact section-padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="section-title">
+                    <h2><span>Hubungi</span> Kami</h2>
+                    <h4>Untuk Setiap Pertanyaan dan Dukungan</h4>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10">
+                <div class="contact-form">
+                    <form action="">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <input type="text" name="" id="contact-name" placeholder="Nama Lengkap" class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <input type="email" name="" id="contact-name" placeholder="Email" class="form-control">
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="mb-4">
-                            <label for="exampleFormControlInput1" class="form-label">Alamat Email</label>
-                            <input type="email" class="form-control form-control-lg" id="exampleFormControlInput1">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <input type="number" name="" id="" placeholder="Nomor Telepon" class="form-control">
+                                </div>
+                            </div>
                         </div>
-                    </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <input type="text" name="" id="" placeholder="Subjek Pesan" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="form-group">
+                                    <textarea name="" id="" rows="2" placeholder="Isi Pesan" class="form-control"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <button type="submit" class="btn btn-2">Kirim Pesan</button>
+                            </div>
+                        </div>
+                    </form>
                 </div>
-                <div class="mb-4">
-                    <label for="exampleFormControlInput1" class="form-label">Subject</label>
-                    <input type="text" class="form-control form-control-lg" id="exampleFormControlInput1">
-                </div>
-                <div class="mb-4">
-                    <label for="exampleFormControlTextarea1" class="form-label">Isi Pesan</label>
-                    <textarea class="form-control form-control-lg" id="exampleFormControlTextarea1" rows="4"></textarea>
-                </div>
-                <div class="mt-4 text-end">
-                    <button class="btn btn-danger tombol">Send&nbsp;&nbsp;<i class="ti-upload"></i></button>
-                </div>
-            </form>
+            </div>
         </div>
     </div>
 </section>
+<!-- kontak section end -->

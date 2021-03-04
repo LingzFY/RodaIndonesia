@@ -2,57 +2,66 @@
 <footer class="page-footer font-small bg-dark text-white">
 
     <!--Footer Links-->
-    <div class="container pt-5 mb-4">
+    <div class="container p-5">
         <div class="row mt-5">
 
             <!--First column-->
-            <div class="col-12 col-md-6 pe-0 pe-md-5 mb-4">
-                <div>
+            <div class="col-12 col-md-6 pe-0 pe-md-5 pb-4">
+                <div class="page-footer-img">
                     <img src="assets/logo/logo.png" width="100px" alt="">
                 </div>
-                <p class="text-white mt-2">100% Karya Anak Nusantara</p>
-                <p class="text-white">Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
-                <div class="py-4">
-                    <!--Facebook-->
-                    <a href="#" class="s-icon fb-ic"><i class="ti-facebook"></i></a>
-                    <!--Twitter-->
-                    <a href="#" class="s-icon tw-ic"><i class="ti-twitter-alt"></i></a>
-                    <!--Google +-->
-                    <a href="#" class="s-icon gplus-ic"><i class="ti-google"></i></a>
-                    <!--Linkedin-->
-                    <a href="#" class="s-icon yt-ic"><i class="ti-youtube"></i></a>
-                    <!--Instagram-->
-                    <a href="#" class="s-icon ins-ic"><i class="ti-instagram"></i></a>
+                <div class="page-footer-text">
+                    <p class="text-white mt-2">100% Karya Anak Nusantara</p>
+                    <p class="text-white">Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
+                    <div class="social-icon">
+                        <ul class="list-inline py-3">
+                            <li class="list-inline-item">
+                                <a href="https://web.facebook.com/rodaindonesiaa" target="_blank" class="s-icon fb-ic"><i class="ri-facebook-fill"></i></a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://www.youtube.com/channel/UC3sCgTIeNRN8mHVMeTes86g" target="_blank" class="s-icon yt-ic">
+                                    <i class="ri-youtube-line"></i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://www.instagram.com/rodaindonesiaofficial/" target="_blank" class="s-icon ins-ic"><i class="ri-instagram-line"></i></a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-            <!--/.First column-->
-
-            <!--Second column-->
-            <div class="col-6 col-md-3 mb-4">
+            <div class="col-12 col-md-3 pb-5 pb-md-4">
                 <h6 class="text-uppercase fw-bold">
                     <strong>Menu</strong>
                 </h6>
                 <hr class="bg-danger accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                <p><a href="#!">Aktivitas</a></p>
-                <p><a href="#!">Projek</a></p>
-                <p><a href="#!">Info Driver</a></p>
-                <p><a href="#!">Info User</a></p>
-                <p><a href="#!">Tentang Kami</a></p>
+                <p><a href="?page=kontak">Kontak Kami</a></p>
+                <p><a href="?page=projek">Projek</a></p>
+                <p><a href="?page=info_driver">Info Driver</a></p>
+                <p><a href="?page=info_user">Info User</a></p>
+                <p><a href="?page=about_us">Tentang Kami</a></p>
             </div>
-            <!--/.Second column-->
-
-            <!--Third column-->
-            <div class="col-6 col-md-3 mb-4">
+            <div class="col-12 col-md-3">
                 <h6 class="text-uppercase fw-bold">
                     <strong>Info Kontak</strong>
                 </h6>
                 <hr class="bg-danger accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                <p><a href="#!">Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</a></p>
-                <p><a href="#!">+62 877 1307 1972</a></p>
-                <p><a href="#!">rodaindonesia.1@gmail.com</a></p>
+                <div class="footer-info">
+                    <div class="footer-info-item">
+                        <i class="ri-map-pin-2-fill"></i>
+                        <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
+                    </div>
+                    <div class="footer-info-item">
+                        <i class="ri-mail-send-fill"></i>
+                        <p>rodaindonesia.1@gmail.com</p>
+                    </div>
+                    <div class="footer-info-item">
+                        <i class="ri-phone-fill"></i>
+                        <p>+62 877 1307 1972</p>
+                        <p>+62 813 2214 6567</p>
+                    </div>
+                </div>
             </div>
-            <!--/.Third column-->
-
         </div>
     </div>
     <!--/.Footer Links-->
@@ -62,10 +71,10 @@
         <div class="container">
             <div class="row py-4 d-flex align-items-center">
                 <div class="col-md-6 col-lg-5 text-center text-md-start pb-4 pb-md-0">
-                    <span>Copyright &copy; 2021 by <a href="https://mdbootstrap.com/bootstrap-tutorial/"> Roda Indonesia</a></span>
+                    <span>Copyright &copy; 2021 by <a href="index.php"> Roda Indonesia</a></span>
                 </div>
                 <div class="col-md-6 col-lg-7 text-center text-md-end">
-                    <span><a href="https://roda-indonesia.com/TermsOfService/">Terms of Service</a> | <a href="https://roda-indonesia.com/PrivacyPolicy/">Privacy Policy</a></span>
+                    <span><a href="?page=kebijakan&sub_page=persyaratan_layanan">Persyaratan Layanan</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="?page=kebijakan&sub_page=kebijakan_privasi">Kebijakan Privasi</a></span>
                 </div>
             </div>
         </div>
@@ -77,24 +86,32 @@
 
 <!-- To Top -->
 <div class="scroll-top-to box-shadow">
-    <i class="ti-angle-up"></i>
+    <i class="ri-arrow-up-s-line"></i>
 </div>
 
-<script src="js/jquery_3.5.1.min.js"></script>
-<script src="js/jquery_migrate_3.3.2.min.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap/bootstrap.min.js"></script>
-<script src="js/fontawesome/all.min.js"></script>
-<script src="js/sweetalert/sweetalert2.js"></script>
-<script src="js/aos/aos.js"></script>
-<script src="js/home_script.js"></script>
+<script src="plugins/jquery_3.5.1.min.js"></script>
+<script src="plugins/jquery_migrate_3.3.2.min.js"></script>
+<script src="plugins/popper.min.js"></script>
+<script type="text/javascript" src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- <script type="text/javascript" src="plugins/fontawesome/all.js"></script> -->
+<script type="text/javascript" src="plugins/sweetalert/sweetalert2.js"></script>
+<script type="text/javascript" src="plugins/aos/aos.js"></script>
+<script type="text/javascript" src="plugins/owlCarousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="js/home_script.js"></script>
+
+<script>
+    $('.icon').click(function() {
+        $('span').toggleClass("cancel");
+    });
+</script>
 
 <?php
 $page = @$_GET['page'];
+$sub_page = @$_GET['sub_page'];
 switch ($page) {
 
     case 'kontak':
-        echo '<script src="js/leaflet/leaflet.js"></script>';
+        echo '<script src="plugins/leaflet/leaflet.js"></script>';
         echo '<script src="js/page_js/kontak_us.js"></script>';
         break;
 
@@ -102,8 +119,52 @@ switch ($page) {
         echo '<script src="js/page_js/info_user.js"></script>';
         break;
 
+    case 'ribike':
+        echo '<script src="js/page_js/projek/ribike.js"></script>';
+        break;
+
+    case 'ricar':
+        echo '<script src="js/page_js/projek/ricar.js"></script>';
+        break;
+
+    case 'ripublic':
+        echo '<script src="js/page_js/projek/ripublic.js"></script>';
+        break;
+
+    case 'rimart':
+        echo '<script src="js/page_js/projek/rimart.js"></script>';
+        break;
+
+    case 'rifood':
+        echo '<script src="js/page_js/projek/rifood.js"></script>';
+        break;
+
+    case 'risend':
+        echo '<script src="js/page_js/projek/risend.js"></script>';
+        break;
+
+    case 'ritrip':
+        echo '<script src="js/page_js/projek/ritrip.js"></script>';
+        break;
+
+    case 'ridu':
+        echo '<script src="js/page_js/projek/ridu.js"></script>';
+        break;
+
+    case 'richat':
+        echo '<script src="js/page_js/projek/richat.js"></script>';
+        break;
+
     case 'about_us':
         echo '<script src="js/page_js/about_us.js"></script>';
+        break;
+
+    case 'kebijakan':
+        if ($sub_page == "kebijakan_privasi") {
+            echo '<script src="js/page_js/kebijakan/kebijakan_privasi.css"></script>';
+        } else {
+            echo '<script src="js/page_js/kebijakan/persyaratan_layanan.css"></script>';
+        }
         break;
 
     default:
