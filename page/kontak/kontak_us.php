@@ -7,7 +7,7 @@
         <i class="ri-add-fill effect effect-2"></i>
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
-    <div class="container px-5">
+    <div class="container ">
         <div class="row align-items-center">
             <div class="col-12 col-lg-7 text-center text-lg-start">
                 <div class="jumbotron-text">
@@ -37,7 +37,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-7 px-0 px-md-4" id="maps"></div>
-            <div class="col-lg-4 col-md-5 px-5 pt-5 pt-md-0">
+            <div class="col-lg-4 col-md-5  pt-5 pt-md-0">
                 <div class="contact-info">
                     <div class="section-title text-center text-md-start">
                         <h2><span>Lokasi Perusahaan</span> Kami</h2>

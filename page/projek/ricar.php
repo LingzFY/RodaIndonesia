@@ -5,7 +5,7 @@
         <i class="ri-add-fill effect effect-2"></i>
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
-    <div class="container px-5">
+    <div class="container ">
         <div class="row align-items-center">
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
@@ -38,7 +38,7 @@
             <h2 class="mt-2 mt-md-0" class="fw-bold text-center">AMAN, NYAMAN dan EFISIEN</h2>
         </div>
         <div class="ricar-explain-text">
-            <p class="text-justify text-md-center text-break">RICAR menjadi salah satu fitur yang sangat diandalkan bagi anda yang menuntut keamanan kenyamanan tetapi tetap efisien dalam aktifitasnya.  
+            <p class="text-justify text-md-center text-break">RICAR menjadi salah satu fitur yang sangat diandalkan bagi anda yang menuntut keamanan kenyamanan tetapi tetap efisien dalam aktifitasnya.
             </p>
         </div>
         <div class="row ricar-features">
@@ -54,7 +54,7 @@
             <div class="col-10 col-md-4 pt-4">
                 <div class="ricar-feature-item pt-4 px-2">
                     <div class="icon">
-                    <i class="ri-roadster-fill"></i><i class="info-icon ri-arrow-right-s-line"></i><i class="ri-roadster-fill"></i></i>
+                        <i class="ri-roadster-fill"></i><i class="info-icon ri-arrow-right-s-line"></i><i class="ri-roadster-fill"></i></i>
                     </div>
                     <h3>User bisa memilih type kendaraan</h3>
                     <p>Mobil dengan kapasitas 4 seat maupun 6 seat</p>

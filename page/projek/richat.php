@@ -4,7 +4,7 @@
         <i class="ri-add-fill effect effect-2"></i>
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
-    <div class="container px-5">
+    <div class="container ">
         <div class="row align-items-center">
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
@@ -40,7 +40,7 @@
             <h2 class="mt-2 mt-md-0" class="fw-bold text-center">keep in touch with everyone whitout worries</h2>
         </div>
         <div class="richat-explain-text">
-            <p class="text-justify text-md-center text-break">Aplikasi RICHAT hadir sebagai sarana untuk saling berkirim pesan kepada sesama pengguna aplikasi Roda Indonesia agar dapat terjalin komunikasi yang baik, mudah dan praktis. dilengkapi tombol darurat yang dapat digunakan saat anda dalam situasi terancam bahaya. 
+            <p class="text-justify text-md-center text-break">Aplikasi RICHAT hadir sebagai sarana untuk saling berkirim pesan kepada sesama pengguna aplikasi Roda Indonesia agar dapat terjalin komunikasi yang baik, mudah dan praktis. dilengkapi tombol darurat yang dapat digunakan saat anda dalam situasi terancam bahaya.
             </p>
         </div>
         <div class="richat-img">

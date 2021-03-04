@@ -5,7 +5,7 @@
         <i class="ri-add-fill effect effect-2"></i>
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
-    <div class="container px-5">
+    <div class="container">
         <div class="row align-items-center">
             <div class="col-12 col-lg-7 text-center text-lg-start">
                 <div class="jumbotron-text">
@@ -36,7 +36,7 @@
         <div class="section-title">
             <h2 class="mt-2 mt-md-0" class="text-center"><span>RODA</span> INDONESIA</h2>
         </div>
-        <div class="company-profile-text text-center px-2 px-lg-5">
+        <div class="company-profile-text text-center">
             <p class="text-justify text-md-center text-break">RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN UNTUK SEMUA.</p>
         </div>
     </div>
@@ -179,7 +179,7 @@
             <p class="mt-md-0 text-white"><strong>Ayo Jadi Bagian dari Kami</strong></p>
             <h2 class="mt-md-0 text-center text-white"><strong>DAFTAR KOORD WIL. RI NUSANTARA</strong></h2>
         </div>
-        <div class="daftar-korwil-text mt-3 text-center px-2 px-lg-5">
+        <div class="daftar-korwil-text mt-3 text-center">
             <p class="text-justify text-md-center text-break text-white">Untuk mengajukan diri sebagai Koordinator Wilayah RI, untuk mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah.</p>
         </div>
         <div class="daftar-korwil-btn">

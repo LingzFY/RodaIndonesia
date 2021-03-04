@@ -5,7 +5,7 @@
         <i class="ri-add-fill effect effect-2"></i>
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
-    <div class="container px-5">
+    <div class="container">
         <div class="row align-items-center">
             <div class="col-12 col-lg-7 text-center text-lg-start">
                 <div class="jumbotron-text">
@@ -81,10 +81,10 @@
                 </div>
             </div>
             <div class="col-12 col-lg-6 col-xl-6">
-                <div class="section-title px-2 px-lg-0">
+                <div class="section-title">
                     <h2>Dapatkan <span>semua kemudahan</span> hanya dalam <span>Satu Aplikasi</span></h2>
                 </div>
-                <div class="one-touch-text px-2 px-lg-0">
+                <div class="one-touch-text">
                     <p>RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN UNTUK SEMUA.</p>
                 </div>
             </div>
@@ -106,7 +106,7 @@
                 </div>
             </div>
         </div>
-        <div class="projek-items px-0 px-lg-5">
+        <div class="projek-items">
             <div class="row g-4">
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=rimart">

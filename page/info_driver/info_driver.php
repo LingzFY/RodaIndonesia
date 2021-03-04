@@ -5,7 +5,7 @@
         <i class="ri-add-fill effect effect-2"></i>
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
-    <div class="container px-5">
+    <div class="container">
         <div class="row align-items-center">
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">

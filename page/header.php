@@ -100,7 +100,7 @@
 
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg fixed-top py-3" id="header_nav">
-        <div class="container px-lg-5">
+        <div class="container">
             <a class="navbar-brand" href="index.php">
                 <img src="assets/logo/logo.png" width="80px" alt="">
             </a>
