@@ -55,7 +55,7 @@
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-shield-user-line"></i></div>
-                    <h3>Kemanan Pengguna & Driver</h3>
+                    <h3>Keamanan Pengguna & Driver</h3>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-thumb-up-fill"></i></div>

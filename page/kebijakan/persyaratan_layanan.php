@@ -36,7 +36,7 @@
         <div class="service-features">
             <div class="service-feature-item">
                 <div class="section-title">
-                    <h3>Transportasi Online Roda Dua (RIJEK)</h3>
+                    <h3>Transportasi Online Roda Dua (RIBIKE)</h3>
                 </div>
                 <h5>Syarat Pendaftaran Mitra Roda Indonesia</h5>
                 <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>

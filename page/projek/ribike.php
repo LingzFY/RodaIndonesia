@@ -34,11 +34,11 @@
 <section class="rijek-explain section-padding">
     <div class="container mt-100px text-center">
         <div class="section-title">
-            <h4 class="mt-5 mt-md-0">RIJek</h4>
+            <h4 class="mt-5 mt-md-0">RIBike</h4>
             <h2 class="mt-2 mt-md-0" class="fw-bold text-center">CEPAT, TEPAT, SELAMAT SAMPAI TUJUAN</h2>
         </div>
         <div class="rijek-explain-text">
-            <p class="text-justify text-md-center text-break">RIJEK adalah fitur transportasi online roda 2 yang siap mengantarkan penumpang dilokal area, dengan cepat, tepat, serta tetap mengutamakan keselamatan. RIBIKE menjadi salah satu alternatif transportasi berbasis online bagi mereka yg dituntut serba cepat dalam aktifitasnya.
+            <p class="text-justify text-md-center text-break">RIBike adalah fitur transportasi online roda 2 yang siap mengantarkan penumpang dilokal area, dengan cepat, tepat, serta tetap mengutamakan keselamatan. RIBIKE menjadi salah satu alternatif transportasi berbasis online bagi mereka yg dituntut serba cepat dalam aktifitasnya.
             </p>
         </div>
         <div class="row rijek-features">
