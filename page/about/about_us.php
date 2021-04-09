@@ -151,15 +151,8 @@
             <div class="col-md-4 col-lg-3 text-center pb-4">
                 <div class="tim-card-item h-100">
                     <img src="assets/gambar/team/default.png" alt="James JHK" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mt-5 mt-md-0"><strong>Bussiness Dev. Manager</strong></p>
-                    <p class="mt-2 mt-md-0 text-center"><strong>James JHK</strong></p>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/head_bussiness_dev.jpg" alt="Jozeph H" srcset="" class="w-100 pb-4">
                     <p class="tim-section-jabatan mt-5 mt-md-0"><strong>Head Bussiness Dev.</strong></p>
-                    <p class="mt-2 mt-md-0 text-center"><strong>Jozeph H</strong></p>
+                    <p class="mt-2 mt-md-0 text-center"><strong>James HK</strong></p>
                 </div>
             </div>
             <div class="col-md-4 col-lg-3 text-center pb-4">
@@ -167,6 +160,20 @@
                     <img src="assets/gambar/team/legal_manager.jpg" alt="June CH" srcset="" class="w-100 pb-4">
                     <p class="tim-section-jabatan mt-5 mt-md-0"><strong>Legal Manager</strong></p>
                     <p class="mt-2 mt-md-0 text-center"><strong>June CH</strong></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-3 text-center pb-4">
+                <div class="tim-card-item h-100">
+                    <img src="assets/gambar/team/head_bussiness_dev.jpg" alt="Jozeph H" srcset="" class="w-100 pb-4">
+                    <p class="tim-section-jabatan mt-5 mt-md-0"><strong>Legal</strong></p>
+                    <p class="mt-2 mt-md-0 text-center"><strong>Jozeph H</strong></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-3 text-center pb-4">
+                <div class="tim-card-item h-100">
+                    <img src="assets/gambar/team/legal2.jpg" alt="Jozeph H" srcset="" class="w-100 pb-4">
+                    <p class="tim-section-jabatan mt-5 mt-md-0"><strong>Legal</strong></p>
+                    <p class="mt-2 mt-md-0 text-center"><strong>Tri</strong></p>
                 </div>
             </div>
         </div>

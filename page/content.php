@@ -112,7 +112,7 @@
                     <a href="?page=rimart">
                         <div class="projek-item">
                             <img src="assets/icon/rimart.png" alt="" srcset="">
-                            <h3>rimart</h3>
+                            <h3>RIMart</h3>
                             <p>Layanan Marketplace</p>
                         </div>
                     </a>
@@ -217,7 +217,7 @@
                     <img src="assets/logo/opgi_512px.png" class="w-75 grayscale" alt="" srcset="">
                 </div>
                 <div class="support-item">
-                    <img src="assets/logo/rtiga_512px.png" class="w-75 grayscale" alt="" srcset="">
+                    <img src="assets/logo/kemenhub_512px.png" class="w-75 grayscale" alt="" srcset="">
                 </div>
                 <div class="support-item">
                     <img src="assets/logo/smm_512px.png" class="w-75 grayscale" alt="" srcset="">
@@ -239,7 +239,7 @@
         <div class="row text-center">
             <div class="col align-self-center">
                 <div class="section-title">
-                    <h2>Unduh <span>Aplikasi Roda Indonesia</span></h2>
+                    <h2>Unduh <span style="color: orange;">Aplikasi Roda Indonesia</span></h2>
                 </div>
             </div>
         </div>
