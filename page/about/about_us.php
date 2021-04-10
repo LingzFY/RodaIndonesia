@@ -63,6 +63,31 @@
     </div>
 </section>
 
+<section class="company-profile section-padding">
+    <div class="container text-center">
+        <div class="section-title">
+            <h2 class="mt-2 mt-md-0" class="text-center"><span>Sertifikat</span> Roda Indonesia</h2>
+        </div>
+            <div class="owl-carousel sertifikat-carousel">
+                <div class="sertifikat-item">
+                    <img src="assets/gambar/legal/s_nib.jpg" alt="" srcset="">
+                </div>
+                <div class="sertifikat-item">
+                    <img src="assets/gambar/legal/s_pse.jpeg" alt="" srcset="">
+                </div>
+                <div class="sertifikat-item">
+                    <img src="assets/gambar/legal/s_merk.jpeg" alt="" srcset="">
+                </div>
+                <div class="sertifikat-item">
+                    <img src="assets/gambar/legal/s_dukungan.jpg" alt="" srcset="">
+                </div>
+                <div class="sertifikat-item">
+                    <img src="assets/gambar/legal/s_dishub.jpg" alt="" srcset="">
+                </div>
+            </div>
+    </div>
+</section>
+
 <section class="tim-section section-padding">
     <div class="container mt-100px text-center">
         <div class="section-title">

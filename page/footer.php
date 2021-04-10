@@ -99,12 +99,6 @@
 <script type="text/javascript" src="plugins/owlCarousel/owl.carousel.min.js"></script>
 <script type="text/javascript" src="js/home_script.js"></script>
 
-<script>
-    $('.icon').click(function() {
-        $('span').toggleClass("cancel");
-    });
-</script>
-
 <?php
 $page = @$_GET['page'];
 $sub_page = @$_GET['sub_page'];
@@ -172,6 +166,12 @@ switch ($page) {
         break;
 }
 ?>
+
+<script>
+    $('.icon').click(function() {
+        $('span').toggleClass("cancel");
+    });
+</script>
 
 </body>
 

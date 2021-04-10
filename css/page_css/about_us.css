@@ -112,6 +112,22 @@
   color: #555;
 }
 
+/* Sertifikat Section */
+.sertifikat-carousel {
+  padding-top: 50px;
+}
+.sertifikat-item {
+  margin: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.sertifikat-item img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin: auto;
+}
+
 .tim-card-item {
   box-shadow: var(--shadow-black-100);
   margin: 10px;
