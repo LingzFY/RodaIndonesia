@@ -63,7 +63,7 @@
     </div>
 </section>
 
-<section class="company-profile section-padding">
+<!-- <section class="company-profile section-padding">
     <div class="container text-center">
         <div class="section-title">
             <h2 class="mt-2 mt-md-0" class="text-center"><span>Sertifikat</span> Roda Indonesia</h2>
@@ -86,7 +86,7 @@
                 </div>
             </div>
     </div>
-</section>
+</section> -->
 
 <section class="tim-section section-padding">
     <div class="container mt-100px text-center">
