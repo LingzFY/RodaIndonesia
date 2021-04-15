@@ -85,7 +85,7 @@
                     <h2>Dapatkan <span>semua kemudahan</span> hanya dalam <span>Satu Aplikasi</span></h2>
                 </div>
                 <div class="one-touch-text">
-                    <p>RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN UNTUK SEMUA.</p>
+                    <p>RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari, mulai dari kebutuhan tranportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN UNTUK SEMUA.</p>
                 </div>
             </div>
         </div>
