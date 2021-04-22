@@ -148,7 +148,7 @@
                             <img src="assets/gambar/team/ceo.jpg" alt="CEO / Founder RI" srcset="" class="rounded-circle">
                             <div class="d-flex align-items-center justify-content-center flex-column">
                                 <p class="tim-section-jabatan"><strong>CEO / FOUNDER RI</strong></p>
-                                <p class="mt-0 text-center"><strong>Anneke S.L,S.Psi,.M.M.,A.IP</strong></p>
+                                <p class="mt-0 text-center"><strong>Anneke S.L., S.Psi., M.M., AJP</strong></p>
                             </div>
                         </div>
                     </div>
@@ -171,7 +171,7 @@
                                 <img src="assets/gambar/team/legal.jpg" alt="Legal" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Legal</strong></p>
-                                    <p class="mt-0 text-center"><strong>Tri Setiowati, SH</strong></p>
+                                    <p class="mt-0 text-center"><strong>Tri Setiowati, S.H.</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -195,7 +195,7 @@
                                 <img src="assets/gambar/team/head_marketing.jpg" alt="Head Marketing" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Head Marketing</strong></p>
-                                    <p class="mt-0 text-center"><strong>Stephan A.M</strong></p>
+                                    <p class="mt-0 text-center"><strong>Stephan A.M.</strong></p>
                                 </div>
                             </div>
                         </li>
@@ -217,7 +217,7 @@
                         <img src="assets/gambar/team/finance_manager.jpg" alt="Finance Manager" srcset="" class="rounded-circle">
                         <div class="d-flex align-items-center justify-content-center flex-column">
                             <p class="tim-section-jabatan"><strong>Finance Manager</strong></p>
-                            <p class="mt-0 text-center"><strong>Ning Wahyuni, SE,,.MM</strong></p>
+                            <p class="mt-0 text-center"><strong>Ning Wahyuni, S.E., M.M.</strong></p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
@@ -227,7 +227,7 @@
                                 <img src="assets/gambar/team/accounting.png" alt="Accounting" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Accounting</strong></p>
-                                    <p class="mt-0 text-center"><strong>Alfianne A.D.P., S.A</strong></p>
+                                    <p class="mt-0 text-center"><strong>Alfianne A.D.P., S.A.</strong></p>
                                 </div>
                             </div>
                         </li>
@@ -291,7 +291,7 @@
                                 <img src="assets/gambar/team/human_capital.jpg" alt="Human Capital & Development" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p>
-                                    <p class="mt-0 text-center"><strong>Joseph Hutauruk,SH</strong></p>
+                                    <p class="mt-0 text-center"><strong>Joseph Hutauruk, S.H.</strong></p>
                                 </div>
                             </div>
                         </li>
