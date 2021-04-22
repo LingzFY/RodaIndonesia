@@ -40,8 +40,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-10">
                 <div class="section-title">
-                    <h2><span>DAPATKAN</span></h2>
-                    <h3 class="mt-4">Potongan Minimal dan Manfaat Lebih Besar !!!</h3>
+                    <h2>DAPATKAN <span>MANFAAT</span> YANG <span>MAKSIMAL</span></h2>
+                    <h3 class="mt-4">Dengan Menjadi Bagian dari Roda Indonesia !!!</h3>
                 </div>
             </div>
         </div>

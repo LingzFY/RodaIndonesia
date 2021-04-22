@@ -13,7 +13,9 @@
                 <div class="page-footer-text">
                     <p class="text-white mt-2">100% Karya Anak Nusantara</p>
                     <p class="text-white">Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
-                    <div class="social-icon">
+                    <p class="text-white mb-0">#SatuSentuhanUntukSemua</p>
+                    <p class="text-white my-0">#Maaf,SayaDuluan!</p>
+                    <div class="social-icon my-3">
                         <ul class="list-inline py-3">
                             <li class="list-inline-item">
                                 <a href="https://web.facebook.com/rodaindonesiaa" target="_blank" class="s-icon fb-ic"><i class="ri-facebook-fill"></i></a>
@@ -36,9 +38,8 @@
                 </h6>
                 <hr class="bg-danger accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                 <p><a href="?page=kontak">Kontak Kami</a></p>
-                <p><a href="?page=projek">Projek</a></p>
+                <p><a href="#projek-section">Projek</a></p>
                 <p><a href="?page=info_driver">Info Driver</a></p>
-                <p><a href="?page=info_user">Info User</a></p>
                 <p><a href="?page=about_us">Tentang Kami</a></p>
             </div>
             <div class="col-12 col-md-3">
@@ -150,7 +151,8 @@ switch ($page) {
         break;
 
     case 'about_us':
-        echo '<script src="js/page_js/about_us.js"></script>';
+        echo '<script type="text/javascript" src="js/page_js/about_us.js"></script>';
+        echo '<script type="text/javascript" src="plugins/dhtmlx_diagram/diagram.js"></script>';
         break;
 
     case 'kebijakan':

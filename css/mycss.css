@@ -166,21 +166,21 @@ ul {
   left: 20%;
   top: 20%;
   font-size: 20px;
-  color: var(--color-2);
+  color: white;
   animation: spin_01 5s linear infinite;
 }
 .effect-wrap .effect-2 {
   right: 5%;
   top: 10%;
   font-size: 25px;
-  color: rgba(255, 255, 255, 0.5);
+  color: white;
   animation: spin_01 7s linear infinite;
 }
 .effect-wrap .effect-3 {
   left: 5%;
   bottom: 20%;
   font-size: 20px;
-  color: var(--color-3);
+  color: white;
   animation: bounceTop_01 3s linear infinite;
 }
 .section-padding {
@@ -512,6 +512,31 @@ ul {
   font-family: 'RobotoFont', sans-serif;
 }
 
+/* --------------------------------- Visi Misi Accordion ------------------------------ */
+.accordion-button,
+.accordion-button.collapsed {
+  border-radius: 200px !important;
+  background-image: linear-gradient(
+    to right,
+    hsl(359, 79%, 55%),
+    rgb(111, 26, 28)
+  );
+  padding: 15px 30px;
+  text-transform: capitalize;
+  color: white !important;
+}
+.accordion-button.btn-2:hover,
+.accordion-button.collapsed.btn-2:hover {
+  color: white;
+}
+.accordion-button::after,
+.accordion-button.collapsed::after {
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !important;
+}
+.accordion-body{
+  font-family: 'RobotoFont', sans-serif;
+}
+
 /* ----------------------------------- App Download ------------------------------------ */
 .app-download {
   background: url("../assets/gambar/bg/bg_parallax_hd.jpg");
@@ -573,27 +598,29 @@ ul {
   height: 100%;
   padding: 30px;
   border-radius: 10px;
-  text-align: center;
   position: relative;
   z-index: 1;
   overflow: hidden;
   transition: 500ms ease;
   filter: grayscale(100%);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 .projek .projek-item:hover {
   box-shadow: var(--shadow-red-300);
   filter: none;
 }
-.projek .projek-item img {
+.projek .projek-item .icon {
   height: 60px;
   width: 60px;
-  margin: 30px 0;
-  text-align: center;
+  margin: 25px 0;
+  border-radius: 50%;
   font-size: 30px;
   color: var(--main-color);
-  position: relative;
-  z-index: 1;
-  transition: all 0.5s ease;
+  border: 1px solid var(--main-color);
+  text-align: center;
+  line-height: 57.5px;
 }
 .projek .projek-item h3 {
   font-size: 22px;

@@ -73,6 +73,7 @@
 
         case 'about_us':
             echo '<link rel="stylesheet" type="text/css" href="css/page_css/about_us.css">';
+            echo '<link rel="stylesheet" type="text/css" href="plugins/dhtmlx_diagram/diagram.css">';
             break;
 
         case 'kebijakan':

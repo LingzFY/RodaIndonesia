@@ -93,8 +93,55 @@
 </section>
 <!-- Akhir SLogan -->
 
+<!-- Visi Misi -->
+<section class="visi-misi-section section-padding">
+    <div class="container">
+        <div class="section-title">
+            <h2><span>Visi</span> dan <span>Misi</span> Roda Indonesia</h2>
+        </div>
+        <div class="accordion visi-misi-arc" id="accordionExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Visi Roda Indonesia
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <ol>
+                            <li>RODA INDONESIA bertekad untuk menjadi Perusahaan digital berbasis Aplikasi Online dengan kualifikasi dan kompetensi bertaraf Nasional, serta bisnis yang berorientasi profesional, dan fokus untuk tetap Memanusiakan Manusia.</li>
+                            <li>Menjadikan Aplikasi Online yang berdampak Positif bagi Masyarakat pada umumnya dan Pemerintah pada khususnya. </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item my-4">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button btn-2 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        Misi Roda Indonesia
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <ol>
+                            <li>Menjaga keamanan database pengguna aplikasi sesuai standar Sistem Keamanan Informasi dan pertumbuhan Ekonomi Digital.</li>
+                            <li>Mengembangkan Industri Perangkat Lunak berbasis Aplikasi Online dengan Orientasi Budaya Profesional.</li>
+                            <li>Meningkatkan Branding RODA INDONESIA dengan mempertahankan kualitas Produk, Layanan dan Daya Jual dengan 9 KONSEP RODA INDONESIA.</li>
+                            <li>Melibatkan seluruh lapisan masyarakat dalam pengembangan RODA INDONESIA dan di setiap kegiatan pemberian dan penerimaan manfaat Aplikasi ini, sehingga diharapkan Masyarakat Indonesia lebih Sejahtera.</li>
+                            <li>Memberikan Solusi kepada Pemerintah melalui Konsep RIPUBLIC.</li>
+                            <li>Menjadikan setiap sumber daya manusia sebagai SA’UDARA.</li>
+                            <li>Mengajak masyarakat menjadi Individu yang Mandiri dan Kompeten.</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Akhir Visi Misi -->
+
 <!-- Fitur Aplikasi -->
-<section class="projek section-padding">
+<section class="projek section-padding" id="projek-section">
     <div class="container">
         <div class="row text-center">
             <div class="col align-self-center">
@@ -111,7 +158,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=rimart">
                         <div class="projek-item">
-                            <img src="assets/icon/rimart.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-shopping-bag-fill"></i></div>
                             <h3>RIMart</h3>
                             <p>Layanan Marketplace</p>
                         </div>
@@ -120,7 +167,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=ribike">
                         <div class="projek-item">
-                            <img src="assets/icon/ribike.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-e-bike-2-fill"></i></div>
                             <h3>RIBike</h3>
                             <p>Layanan Transportasi Online Roda 2</p>
                         </div>
@@ -129,7 +176,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=ricar">
                         <div class="projek-item">
-                            <img src="assets/icon/ricar.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-roadster-fill"></i></div>
                             <h3>RICar</h3>
                             <p>Layanan Transportasi Online Roda 4</p>
                         </div>
@@ -138,7 +185,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=rifood">
                         <div class="projek-item">
-                            <img src="assets/icon/rifood.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-restaurant-fill"></i></div>
                             <h3>RIFood</h3>
                             <p>Layanan Pengantaran Makanan</p>
                         </div>
@@ -147,7 +194,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=risend">
                         <div class="projek-item">
-                            <img src="assets/icon/risend.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-inbox-unarchive-fill"></i></div>
                             <h3>RISend</h3>
                             <p>Layanan Pengantaran Barang</p>
                         </div>
@@ -156,7 +203,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=ripublic">
                         <div class="projek-item">
-                            <img src="assets/icon/ripublic.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-bus-fill"></i></div>
                             <h3>RIPublic</h3>
                             <p>Layanan Transportasi Umum</p>
                         </div>
@@ -165,7 +212,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=ridu">
                         <div class="projek-item">
-                            <img src="assets/icon/ridu.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-lightbulb-fill"></i></div>
                             <h3>RIDu</h3>
                             <p>Layanan Edukasi</p>
                         </div>
@@ -174,7 +221,7 @@
                 <div class="col-lg-4 col-md-4 col-6">
                     <a href="?page=ritrip">
                         <div class="projek-item">
-                            <img src="assets/icon/ritrip.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-road-map-fill"></i></div>
                             <h3>RITrip</h3>
                             <p>Layanan Tour & Travel</p>
                         </div>
@@ -183,7 +230,7 @@
                 <div class="col-lg-4 col-md-4 col-6 mx-auto">
                     <a href="?page=richat">
                         <div class="projek-item">
-                            <img src="assets/icon/richat.png" alt="" srcset="">
+                            <div class="icon"><i class="ri-wechat-line"></i></div>
                             <h3>RIChat</h3>
                             <p>Layanan Komunikasi Text & Suara</p>
                         </div>
