@@ -288,10 +288,10 @@
                         <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <img src="assets/gambar/team/human_capital.jpg" alt="Human Capital & Development" srcset="" class="rounded-circle">
+                                <img src="assets/gambar/team/default.jpg" alt="Human Capital & Development" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p>
-                                    <p class="mt-0 text-center"><strong>Joseph Hutauruk, S.H.</strong></p>
+                                    <p class="mt-0 text-center"><strong>Everlin Valoury M.</strong></p>
                                 </div>
                             </div>
                         </li>
