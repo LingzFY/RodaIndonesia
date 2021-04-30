@@ -39,14 +39,14 @@
         <div class="ritrip-explain-text">
             <p>RITRIP adalah satu terobosan inovatif untuk anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan team kerja anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal.
             </p>
-            <p>
+            <!-- <p>
                 Saat ini Roda Indonesia menjalin kerjasama dengan NAD Trans untuk keperluan Promotion.
             </p>
             <a href="https://www.nindhiyaadidharma.co.id/">
                 <p>https://www.nindhiyaadidharma.co.id/</p>
-            </a>
+            </a> -->
         </div>
-        <div class="ritrip-img section-padding">
+        <!-- <div class="ritrip-img section-padding">
             <div class="logo text-center">
                 <img src="assets/gambar/nad-travel/nda_logo.jpg" alt="" srcset="">
             </div>
@@ -64,6 +64,32 @@
                     <div class="ritrip-item">
                         <img src="assets/gambar/nad-travel/gallery-4.png" alt="" srcset="">
                     </div>
+                </div>
+            </div>
+        </div> -->
+        <div class="row ritrip-features">
+            <div class="col-10 col-md-4 pt-4">
+                <div class="ritrip-feature-item">
+                    <div class="icon">
+                        <i class="ri-coupon-3-fill"></i>
+                    </div>
+                    <h3> Pemesanan Tiket </h3>
+                </div>
+            </div>
+            <div class="col-10 col-md-4 pt-4">
+                <div class="ritrip-feature-item">
+                    <div class="icon">
+                        <i class="ri-hotel-fill"></i>
+                    </div>
+                    <h3> Hotel </h3>
+                </div>
+            </div>
+            <div class="col-10 col-md-4 pt-4">
+                <div class="ritrip-feature-item">
+                    <div class="icon">
+                        <i class="ri-bus-wifi-fill"></i>
+                    </div>
+                    <h3> Travel </h3>
                 </div>
             </div>
         </div>

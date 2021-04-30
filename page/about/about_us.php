@@ -158,7 +158,7 @@
                         <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-2">
                             <div class="bagan-item level-1-5 line-right secertary d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <img src="assets/gambar/team/secertary.jpg" alt="Corp Secertary" srcset="" class="rounded-circle">
+                                <img src="assets/gambar/team/secertary.jpeg" alt="Corp Secertary" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Corp Secertary</strong></p>
                                     <p class="mt-0 text-center"><strong>Febricca V. Dirk</strong></p>
