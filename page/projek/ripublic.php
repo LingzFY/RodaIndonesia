@@ -41,7 +41,7 @@
             <p>Kebutuhan akan Informasi Transportasi umum, saat ini sangatlah diperlukan untuk semua kalangan masyarakat. Dibeberapa daerah kebutuhan akan transportasi umum memang berbeda-beda, hal ini dikarenakan kondisi dan faktor lingkungan setempat. Namun fitur RIPUBLIC ini hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerahnya masing-masing.</p>
             <p>Didalam RIPUBLIC ini terdapat juga kolom berita atau kejadian di sekitar pengguna aplikasi yang aktual, dan dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada pengguna lain (kerabat atau keluarga) yg dikehendaki, atau akan menghubungkan pengguna ke nomor-nomor penting seperti :</p>
         </div>
-        <div class="row ripublic-features">
+        <div class="row ripublic-features justify-content-center">
             <div class="col-10 col-md-4 pt-4">
                 <div class="ripublic-feature-item">
                     <div class="icon">

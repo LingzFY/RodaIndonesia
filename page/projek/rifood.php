@@ -41,7 +41,7 @@
             <p class="text-justify text-md-center text-break">Dalam fitur RIFOOD anda akan dimanjakan bermacam makanan dan jajanan hasil olahan UMKM ataupun merchant ternama yang telah melalui proses seleksi ketat sehinga terjamin kualitas kebersihan dan kenikmatan rasanya hanya dalam genggaman, tidak perlu repot keluar rumah, beresiko macet diperjalanan atau terhambat faktor cuaca yang tidak mendukung.
             </p>
         </div>
-        <div class="rifood-features px-0 px-md-4 pt-4">
+        <div class="rifood-features px-2 px-md-4 pt-4">
             <div class="rifood-feature-item">
                 <i class="ri-hand-heart-fill"></i>
                 <p>Biaya pengiriman terjangkau</p>

@@ -41,7 +41,7 @@
             <p class="text-justify text-md-center text-break">RIBike adalah fitur transportasi online roda 2 yang siap mengantarkan penumpang dilokal area, dengan cepat, tepat, serta tetap mengutamakan keselamatan. RIBIKE menjadi salah satu alternatif transportasi berbasis online bagi mereka yg dituntut serba cepat dalam aktifitasnya.
             </p>
         </div>
-        <div class="row rijek-features">
+        <div class="row rijek-features justify-content-center">
             <div class="col-10 col-md-4 pt-4">
                 <div class="rijek-feature-item pt-4 px-2">
                     <div class="icon">

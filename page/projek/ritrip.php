@@ -34,7 +34,7 @@
     <div class="container mt-100px">
         <div class="section-title">
             <h4 class="mt-5 mt-md-0">RITrip</h4>
-            <h2 class="mt-2 mt-md-0" class="fw-bold text-center">we'll served your trip better</h2>
+            <h2 class="mt-2 mt-md-0" class="fw-bold text-center">pelayanan terbaik untuk perjalanan anda</h2>
         </div>
         <div class="ritrip-explain-text">
             <p>RITRIP adalah satu terobosan inovatif untuk anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan team kerja anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal.
@@ -67,7 +67,7 @@
                 </div>
             </div>
         </div> -->
-        <div class="row ritrip-features">
+        <div class="row ritrip-features justify-content-center">
             <div class="col-10 col-md-4 pt-4">
                 <div class="ritrip-feature-item">
                     <div class="icon">

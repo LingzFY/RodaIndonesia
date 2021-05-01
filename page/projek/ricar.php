@@ -41,7 +41,7 @@
             <p class="text-justify text-md-center text-break">RICAR menjadi salah satu fitur yang sangat diandalkan bagi anda yang menuntut keamanan kenyamanan tetapi tetap efisien dalam aktifitasnya.
             </p>
         </div>
-        <div class="row ricar-features">
+        <div class="row ricar-features justify-content-center">
             <div class="col-10 col-md-4 pt-4">
                 <div class="ricar-feature-item pt-4 px-2">
                     <div class="icon">

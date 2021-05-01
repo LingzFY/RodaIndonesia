@@ -41,7 +41,7 @@
             <p class="text-justify text-md-center text-break">RISEND hadir ditengah masyarakat yang membutuhkan jasa pengantaran barang dalam sekala kecil bahkan sekala besar, tanpa harus memikirkan resiko kerusakan pada barang yang dikirimkan. tenaga terlatih RISEND akan siap mengantarkan barang kiriman dengan cepat ke tujuan.
             </p>
         </div>
-        <div class="risend-features px-0 px-md-4 pt-4">
+        <div class="risend-features px-2 px-md-4 pt-4">
             <div class="risend-feature-item">
                 <i class="ri-hand-coin-fill"></i>
                 <p>Biaya dapat disesuaikan kebutuhan</p>
