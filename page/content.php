@@ -269,6 +269,9 @@
                 <div class="support-item">
                     <img src="assets/logo/smm_512px.png" class="w-75 grayscale" alt="" srcset="">
                 </div>
+                <div class="support-item">
+                    <img src="assets/logo/rtiga_512px.png" class="w-75 grayscale" alt="" srcset="">
+                </div>
             </div>
         </div>
     </div>
