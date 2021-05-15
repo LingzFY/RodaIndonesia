@@ -58,8 +58,8 @@
                     </div>
                     <div class="footer-info-item">
                         <i class="ri-phone-fill"></i>
-                        <p>+62 877 1307 1972</p>
-                        <p>+62 813 2214 6567</p>
+                        <p>(022) 20682586</p>
+                        <p>0813 2220 5561</p>
                     </div>
                 </div>
             </div>

@@ -154,7 +154,7 @@
                     </div>
                 </div>
                 <div class="hr-line position-relative my-md-4">
-                    <div class="row d-flex justify-content-center">
+                    <div class="row justify-content-center">
                         <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-2">
                             <div class="bagan-item level-1-5 line-right secertary d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
@@ -168,10 +168,10 @@
                         <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-2">
                             <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <img src="assets/gambar/team/legal.jpg" alt="Legal" srcset="" class="rounded-circle">
+                                <img src="assets/gambar/team/accounting.png" alt="Accounting" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Legal</strong></p>
-                                    <p class="mt-0 text-center"><strong>Tri Setiowati, S.H.</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Consultant</strong></p>
+                                    <p class="mt-0 text-center"><strong>Alfianne A.D.P., S.A.</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -192,20 +192,20 @@
                         <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <img src="assets/gambar/team/head_marketing.jpg" alt="Head Marketing" srcset="" class="rounded-circle">
+                                <img src="assets/gambar/team/admin.jpg" alt="Admin & Head Driver" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Head Marketing</strong></p>
-                                    <p class="mt-0 text-center"><strong>Stephan A.M.</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Admin & Head Driver</strong></p>
+                                    <p class="mt-0 text-center"><strong>Hilman Sulaeman</strong></p>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <img src="assets/gambar/team/admin.jpg" alt="Admin & Head Driver" srcset="" class="rounded-circle">
+                                <img src="assets/gambar/team/default.jpg" alt="Head Marketing" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Admin & Head Driver</strong></p>
-                                    <p class="mt-0 text-center"><strong>Hilman Sulaeman</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Head Marketing</strong></p>
+                                    <!-- <p class="mt-0 text-center"><strong>Stephan A.M.</strong></p> -->
                                 </div>
                             </div>
                         </li>
@@ -224,20 +224,20 @@
                         <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <img src="assets/gambar/team/accounting.png" alt="Accounting" srcset="" class="rounded-circle">
+                                <img src="assets/gambar/team/purchasing.jpg" alt="Purchasing" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Accounting</strong></p>
-                                    <p class="mt-0 text-center"><strong>Alfianne A.D.P., S.A.</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Purchasing</strong></p>
+                                    <p class="mt-0 text-center"><strong>Yuli Nurhayati</strong></p>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <img src="assets/gambar/team/purchasing.jpg" alt="Purchasing" srcset="" class="rounded-circle">
+                                <img src="assets/gambar/team/default.jpg" alt="Accounting" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Purchasing</strong></p>
-                                    <p class="mt-0 text-center"><strong>Yuli Nurhayati</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Accounting</strong></p>
+                                    <!-- <p class="mt-0 text-center"><strong>Alfianne A.D.P., S.A.</strong></p> -->
                                 </div>
                             </div>
                         </li>
