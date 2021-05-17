@@ -96,9 +96,29 @@
 #maps {
   min-height: 400px;
 }
-
 .maps .section-title {
   margin-bottom: 30px;
+}
+.maps .table-borderless{
+  font-family: 'RobotoFont';
+  color: var(--black-400);
+}
+.maps .table-borderless tr td{
+  padding: 3px 0;
+  vertical-align: top;
+}
+
+/* ------------------------------------ Kantor Cabang -------------------------------- */
+#maps-cabang {
+  min-height: 200px;
+}
+.kantor-cabang .table-borderless{
+  font-family: 'RobotoFont';
+  color: var(--black-400);
+}
+.kantor-cabang .table-borderless tr td{
+  padding: 3px 0;
+  vertical-align: top;
 }
 
 /* --------------------------------- Contact Section ------------------------------- */

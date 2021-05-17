@@ -153,9 +153,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="hr-line position-relative my-md-4">
+                <div class="hr-line hr-line-top position-relative my-md-4">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-2">
+                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
                             <div class="bagan-item level-1-5 line-right secertary d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <img src="assets/gambar/team/secertary.jpeg" alt="Corp Secertary" srcset="" class="rounded-circle">
@@ -165,7 +165,21 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-2">
+                        <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-4">
+                            <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <img src="assets/gambar/team/default.jpg" alt="Accounting" srcset="" class="rounded-circle">
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Corp Lawyer</strong></p>
+                                    <p class="mt-0 text-center"><strong>Yuniarti Chandra, S.H., M.H</strong></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hr-line position-relative my-md-4">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
                             <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <img src="assets/gambar/team/accounting.png" alt="Accounting" srcset="" class="rounded-circle">
@@ -175,6 +189,7 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-4"></div>
                     </div>
                 </div>
             </div>

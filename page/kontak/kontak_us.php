@@ -55,10 +55,23 @@
                     <div class="contact-info-item">
                         <i class="ri-phone-fill"></i>
                         <h4>Nomor Telepon</h4>
-                        <p>(022) 2068 2586</p>
-                        <p>(0813) 2220 5561</p>
-                        <p>(0877) 1307 1972</p>
-                        <p>(0813) 2214 6567</p>
+                        <table class="table-borderless">
+                            <tr>
+                                <td>Telepon</td>
+                                <td>: (022) 2068 2586</td>
+                            </tr>
+                            <tr>
+                                <td>Hotline Whatsapp&nbsp;</td>
+                                <td>: (0813) 2220 5561</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2">Costumer Service</td>
+                                <td>: (0877) 1307 1972</td>
+                            </tr>
+                            <tr>
+                                <td>&ensp;(0813) 2214 6567</td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
             </div>
@@ -78,7 +91,7 @@
         <div class="row justify-content-center">
             <div class="col-12 col-md-4" id="maps-cabang"></div>
             <div class="col-12 col-md-8">
-                <div class="contact-info-item">
+                <div class="contact-info-item mt-4 mt-md-0">
                     <i class="ri-compass-discover-fill"></i>
                     <h4>Alamat</h4>
                     <p>Jl. Tegal Kawung No.42, Cipageran, Kec. Cimahi Utara, Cimahi, Jawa Barat 40511</p>
@@ -86,8 +99,16 @@
                 <div class="contact-info-item">
                     <i class="ri-phone-fill"></i>
                     <h4>Nomor Telepon</h4>
-                    <p>Telepon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: +62 22 20682586</p>
-                    <p>Whatsapp&nbsp;&nbsp;: +62 813 2220 5561</p>
+                    <table class="table-borderless">
+                        <tr>
+                            <td>Telepon</td>
+                            <td>: (022) 2068 2586</td>
+                        </tr>
+                        <tr>
+                            <td>Hotline Whatsapp&nbsp;</td>
+                            <td>: (0813) 2220 5561</td>
+                        </tr>
+                    </table>
                 </div>
             </div>
         </div>
@@ -95,7 +116,7 @@
 </section>
 
 <!-- kontak section start -->
-<section class="contact section-padding">
+<section class="contact section-padding mt-5">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
