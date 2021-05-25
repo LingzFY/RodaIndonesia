@@ -110,6 +110,7 @@
   font-family: "RobotoFont", sans-serif;
   line-height: 26px;
   color: #555;
+  text-align: left;
 }
 
 /* Sertifikat Section */
@@ -358,6 +359,13 @@
 
 /* X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
+  .company-profile-text p {
+    text-align: justify;
+  }
+  .company-story-text p {
+    text-align: justify;
+  }
+
   .big-vertical-line::before {
     content: "";
     position: absolute;
@@ -469,6 +477,13 @@
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
+  .company-profile-text p {
+    text-align: justify;
+  }
+  .company-story-text p {
+    text-align: justify;
+  }
+
   .tim-card-item {
     box-shadow: var(--shadow-black-100);
     border-radius: 10px;
@@ -598,6 +613,13 @@
 
 /* Medium devices (tablets, less than 992px) */
 @media (min-width: 768px) and (max-width: 991.98px) {
+  .company-profile-text p {
+    text-align: justify;
+  }
+  .company-story-text p {
+    text-align: justify;
+  }
+
   .big-vertical-line::before {
     content: "";
     position: absolute;

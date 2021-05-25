@@ -32,12 +32,12 @@
 <!-- Akhir Jumbotron -->
 
 <section class="company-profile section-padding">
-    <div class="container text-center">
+    <div class="container">
         <div class="section-title">
             <h2 class="mt-1" class="text-center"><span>RODA</span> INDONESIA</h2>
         </div>
-        <div class="company-profile-text text-center">
-            <p class="text-justify text-md-center text-break">RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN UNTUK SEMUA.</p>
+        <div class="company-profile-text text-lg-center">
+            <p>RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN UNTUK SEMUA.</p>
         </div>
     </div>
 </section>
@@ -45,16 +45,16 @@
 <section class="company-story section-padding">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-lg-6 col-xl-6 d-flex justify-content-center flex-column order-2">
+            <div class="col-12 col-lg-6 col-xl-6 d-flex justify-content-center flex-column order-2">
                 <div class="section-title">
-                    <h2 class="text-center text-md-start"><span>Cerita</span> Kami</h2>
+                    <h2 class="text-center mt-5 mt-lg-0 text-lg-start"><span>Cerita</span> Kami</h2>
                 </div>
                 <div class="company-story-text text-center">
-                    <p class="text-justify text-lg-start text-break">Diawali dari gerakan Anak Nusantara yang prihatin melihat tangisan masyarakat akan kesulitan ekonomi, dan pandangan terhadap digitalisasi asing, yang perlahan tanpa disadari telah menjajah bangsa secara digital, bangsa asing telah merasuki jatidiri anak bangsa, mempelajari Karakter, kebiasaan, dan kebudayaan bangsa, sehingga dapat dengan mudah ditiru dan dijadikan komoditas bagi bangsa asing. </p>
-                    <p class="text-justify text-lg-start text-break">Hal tersebut tentu akan membuat anak bangsa berada dalam posisi paling menyedihkan dalam sosial ekonomi. Indonesia adalah bangsa yang kaya raya akan rempah, hasil alam, dan budaya. namun kenyataannya banyak sekali komoditas yang dikuasai asing, “Bagaikan Tikus Mati Kelaparan Di Lumbung Padi” itu lah mungkin yang akan terjadi di nusantara apabila penjajahan digital tidak segera diantisipasi. Maka darinya RODA INDONESIA (RI) berusaha tetap fokus untuk menyelamatkan apa yang tersisa dari penjajahan digital ini.</p>
+                    <p>Diawali dari gerakan Anak Nusantara yang prihatin melihat tangisan masyarakat akan kesulitan ekonomi, dan pandangan terhadap digitalisasi asing, yang perlahan tanpa disadari telah menjajah bangsa secara digital, bangsa asing telah merasuki jatidiri anak bangsa, mempelajari Karakter, kebiasaan, dan kebudayaan bangsa, sehingga dapat dengan mudah ditiru dan dijadikan komoditas bagi bangsa asing. </p>
+                    <p>Hal tersebut tentu akan membuat anak bangsa berada dalam posisi paling menyedihkan dalam sosial ekonomi. Indonesia adalah bangsa yang kaya raya akan rempah, hasil alam, dan budaya. namun kenyataannya banyak sekali komoditas yang dikuasai asing, “Bagaikan Tikus Mati Kelaparan Di Lumbung Padi” itu lah mungkin yang akan terjadi di nusantara apabila penjajahan digital tidak segera diantisipasi. Maka darinya RODA INDONESIA (RI) berusaha tetap fokus untuk menyelamatkan apa yang tersisa dari penjajahan digital ini.</p>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-6 col-xl-6 text-center order-1">
+            <div class="col-12 col-lg-6 col-xl-6 text-center order-1">
                 <div class="pb-2 pb-md-0">
                     <img src="assets/gambar/slogan.jpg" width="80%" alt="" srcset="">
                 </div>
