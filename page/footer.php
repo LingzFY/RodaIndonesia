@@ -2,7 +2,7 @@
 <footer class="page-footer font-small bg-dark text-white">
 
     <!--Footer Links-->
-    <div class="container pt-5 px-5 px-md-0">
+    <div class="container pt-5 px-4 px-md-0">
         <div class="row mt-5">
 
             <!--First column-->
@@ -59,23 +59,23 @@
                     </div>
                     <div class="footer-info-item">
                         <i class="ri-phone-fill"></i>
-                        <table class="table-borderless">
-                            <tr>
-                                <td>Telepon</td>
-                                <td>&nbsp;&nbsp;:  (022) 2068 2586</td>
-                            </tr>
-                            <tr>
-                                <td>Hotline&nbsp;</td>
-                                <td>&nbsp;&nbsp;:  (0813) 2220 5561</td>
-                            </tr>
-                            <tr>
-                                <td rowspan="2">Technical Service</td>
-                                <td>&nbsp;&nbsp;:  (0877) 1307 1972</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;&ensp;(0813) 2214 6567</td>
-                            </tr>
-                        </table>
+                        <div class="contact-detail">
+                            <div class="row">
+                                <div class="col-4">Telepon</div>
+                                <div class="col-1">:</div>
+                                <div class="col-7">(022) 2068 2586</div>
+                            </div>
+                            <div class="row">
+                                <div class="col-4">Hotline</div>
+                                <div class="col-1">:</div>
+                                <div class="col-7">(0813) 2220 5561</div>
+                            </div>
+                            <div class="row d-flex">
+                                <div class="col-4">Technical Service</div>
+                                <div class="col-1">:</div>
+                                <div class="col-7">(0877) 1307 1972<br>(0813) 2214 6567</div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

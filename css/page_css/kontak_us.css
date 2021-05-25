@@ -135,13 +135,12 @@
 #maps-cabang {
   min-height: 200px;
 }
-.kantor-cabang .table-borderless{
+.contact-info-item .contact-detail{
   font-family: 'RobotoFont';
   color: var(--black-400);
 }
-.kantor-cabang .table-borderless tr td{
-  padding: 3px 0;
-  vertical-align: top;
+.contact-info-item .contact-detail .row{
+  padding-bottom: 5px;
 }
 
 /* --------------------------------- Contact Section ------------------------------- */

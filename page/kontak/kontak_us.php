@@ -61,23 +61,23 @@
                     <div class="contact-info-item">
                         <i class="ri-phone-fill"></i>
                         <h4>Nomor Telepon</h4>
-                        <table class="table-borderless">
-                            <tr>
-                                <td>Telepon</td>
-                                <td>&nbsp;&nbsp;:  (022) 2068 2586</td>
-                            </tr>
-                            <tr>
-                                <td>Hotline&nbsp;</td>
-                                <td>&nbsp;&nbsp;:  (0813) 2220 5561</td>
-                            </tr>
-                            <tr>
-                                <td rowspan="2">Technical Service</td>
-                                <td>&nbsp;&nbsp;:  (0877) 1307 1972</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;&nbsp;&ensp;(0813) 2214 6567</td>
-                            </tr>
-                        </table>
+                        <div class="contact-detail col-12 col-md-8 col-lg-6">
+                            <div class="row">
+                                <div class="col-5">Telepon</div>
+                                <div class="col-1">:</div>
+                                <div class="col-6">(022) 2068 2586</div>
+                            </div>
+                            <div class="row">
+                                <div class="col-5">Hotline</div>
+                                <div class="col-1">:</div>
+                                <div class="col-6">(0813) 2220 5561</div>
+                            </div>
+                            <div class="row d-flex">
+                                <div class="col-5">Technical Service</div>
+                                <div class="col-1">:</div>
+                                <div class="col-6">(0877) 1307 1972<br>(0813) 2214 6567</div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,9 @@
             <div class="col-lg-8">
                 <div class="section-title">
                     <h2><span>Hubungi</span> Kami</h2>
-                    <h4>Untuk Setiap Pertanyaan dan Dukungan</h4>
+                </div>
+                <div class="contact-text">
+                    <h3>Untuk Setiap Pertanyaan dan Dukungan</h3>
                 </div>
             </div>
         </div>
