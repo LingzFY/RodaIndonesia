@@ -145,6 +145,159 @@
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-7 col-lg-4">
                         <div class="bagan-item level-1 line-right d-flex align-items-center">
+                            <div class="d-flex align-items-center justify-content-center flex-column">
+                                <p class="tim-section-jabatan"><strong>CEO / FOUNDER RI</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hr-line hr-line-top position-relative my-md-4">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
+                            <div class="bagan-item level-1-5 line-right secertary d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Corp Secertary</strong></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-4">
+                            <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Corp Lawyer</strong></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hr-line position-relative my-md-4">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
+                            <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Consultant</strong></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-4"></div>
+                    </div>
+                </div>
+            </div>
+            <ol class="level-2-wrapper">
+                <li class="level-2-operational line-right position-relative">
+                    <div class="bagan-item d-flex align-items-center">
+                        <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                        <div class="d-flex align-items-center justify-content-center flex-column">
+                            <p class="tim-section-jabatan"><strong>Operational Manager</strong></p>
+                        </div>
+                    </div>
+                    <ol class="level-3-wrapper">
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Admin & Head Driver</strong></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Head Marketing</strong></p>
+                                </div>
+                            </div>
+                        </li>
+                    </ol>
+                </li>
+                <li class="level-2-finance line-right position-relative">
+                    <div class="bagan-item d-flex align-items-center">
+                        <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                        <div class="d-flex align-items-center justify-content-center flex-column">
+                            <p class="tim-section-jabatan"><strong>Finance Manager</strong></p>
+                        </div>
+                    </div>
+                    <ol class="level-3-wrapper">
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Purchasing</strong></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Accounting</strong></p>
+                                </div>
+                            </div>
+                        </li>
+                    </ol>
+                </li>
+                <li class="level-2-it line-right position-relative my-md-5 my-lg-0">
+                    <div class="bagan-item d-flex align-items-center">
+                        <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                        <div class="h-100 d-flex align-items-center justify-content-center flex-column">
+                            <p class="tim-section-jabatan"><strong>IT Manager</strong></p>
+                        </div>
+                    </div>
+                    <ol class="level-3-wrapper">
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="h-100 d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p>
+                                </div>
+                            </div>
+                        </li>
+                    </ol>
+                </li>
+                <li class="level-2-business line-right position-relative my-md-5 my-lg-0">
+                    <div class="bagan-item d-flex align-items-center">
+                        <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                        <div class="h-100 d-flex align-items-center justify-content-center flex-column">
+                            <p class="tim-section-jabatan"><strong>Head Business Development</strong></p>
+                        </div>
+                    </div>
+                    <ol class="level-3-wrapper">
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p>
+                                </div>
+                            </div>
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </div>
+    </div>
+</section>
+
+<!-- Struktur untuk Investor -->
+<!-- <section class="bagan-section section-padding">
+    <div class="container">
+        <div class="section-title">
+            <h2 class="text-center"><span>Bagan Struktur</span> Roda Indonesia</h2>
+        </div>
+        <div class="big-vertical-line position-relative">
+            <div class="level-1-wrapper position-relative">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-7 col-lg-4">
+                        <div class="bagan-item level-1 line-right d-flex align-items-center">
                             <img src="assets/gambar/team/ceo.jpg" alt="CEO / Founder RI" srcset="" class="rounded-circle">
                             <div class="d-flex align-items-center justify-content-center flex-column">
                                 <p class="tim-section-jabatan"><strong>CEO / FOUNDER RI</strong></p>
@@ -220,7 +373,7 @@
                                 <img src="assets/gambar/team/default.jpg" alt="Head Marketing" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Head Marketing</strong></p>
-                                    <!-- <p class="mt-0 text-center"><strong>Stephan A.M.</strong></p> -->
+                                    <p class="mt-0 text-center"><strong>Stephan A.M.</strong></p>
                                 </div>
                             </div>
                         </li>
@@ -252,7 +405,7 @@
                                 <img src="assets/gambar/team/default.jpg" alt="Accounting" srcset="" class="rounded-circle">
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Accounting</strong></p>
-                                    <!-- <p class="mt-0 text-center"><strong>Alfianne A.D.P., S.A.</strong></p> -->
+                                    <p class="mt-0 text-center"><strong>Alfianne A.D.P., S.A.</strong></p>
                                 </div>
                             </div>
                         </li>
@@ -315,7 +468,7 @@
             </ol>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- <section class="tim-section section-padding">
     <div class="container mt-100px text-center">

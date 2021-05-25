@@ -95,6 +95,8 @@
 /* --------------------------------------- Maps Section ----------------------- */
 #maps {
   min-height: 400px;
+  margin: 25px;
+  border-radius: 20px;
 }
 .maps .section-title {
   margin-bottom: 30px;
@@ -106,6 +108,28 @@
 .maps .table-borderless tr td{
   padding: 3px 0;
   vertical-align: top;
+}
+.maps .lokasi-perusahaan {
+  padding-top: 80px;
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 30px;
+  border: 1px solid rgb(150, 150, 150);
+  border-radius: 20px;
+}
+.maps .lokasi-perusahaan i {
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  top: 20px;
+  left: calc(50% - 20px);
+  border-radius: 50%;
+  font-size: 15px;
+  color: var(--main-color);
+  border: 1px solid var(--main-color);
+  text-align: center;
+  line-height: 38px;
 }
 
 /* ------------------------------------ Kantor Cabang -------------------------------- */

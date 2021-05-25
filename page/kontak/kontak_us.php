@@ -35,22 +35,27 @@
 
 <section class="maps section-padding">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-md-7 px-0 px-md-4" id="maps"></div>
-            <div class="col-lg-4 col-md-5 pt-5 pt-md-0">
-                <div class="contact-info">
-                    <div class="section-title text-center text-md-start">
-                        <h2><span>Lokasi Perusahaan</span> Kami</h2>
-                    </div>
+        <div class="contact-info">
+            <div class="section-title text-center">
+                <h2><span>Lokasi Perusahaan</span> Kami</h2>
+            </div>
+            <div class="contact-info-item lokasi-perusahaan text-center">
+                <i class="ri-map-pin-2-fill"></i>
+                <h4>Alamat Perusahaan</h4>
+                <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
+                <div id="maps"></div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10 align-self-center pt-4">
                     <div class="contact-info-item">
-                        <i class="ri-compass-discover-fill"></i>
-                        <h4>Alamat Perusahaan</h4>
-                        <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
+                        <i class="ri-pin-distance-fill"></i>
+                        <h4>Cabang Utama</h4>
+                        <p>Jl. Tegal Kawung No.42, Cipageran, Kec. Cimahi Utara, Cimahi, Jawa Barat 40511</p>
                     </div>
                     <div class="contact-info-item">
                         <i class="ri-mail-send-fill"></i>
                         <h4>Email</h4>
-                        <p>rodaindonesia.1@gmail.com</p>
+                        <p>cs@rodaindonesia.site</p>
                     </div>
                     <div class="contact-info-item">
                         <i class="ri-phone-fill"></i>
@@ -58,18 +63,18 @@
                         <table class="table-borderless">
                             <tr>
                                 <td>Telepon</td>
-                                <td>: (022) 2068 2586</td>
+                                <td>&nbsp;&nbsp;:  (022) 2068 2586</td>
                             </tr>
                             <tr>
-                                <td>Hotline Whatsapp&nbsp;</td>
-                                <td>: (0813) 2220 5561</td>
+                                <td>Hotline&nbsp;</td>
+                                <td>&nbsp;&nbsp;:  (0813) 2220 5561</td>
                             </tr>
                             <tr>
-                                <td rowspan="2">Costumer Service</td>
-                                <td>: (0877) 1307 1972</td>
+                                <td rowspan="2">Technical Service</td>
+                                <td>&nbsp;&nbsp;:  (0877) 1307 1972</td>
                             </tr>
                             <tr>
-                                <td>&ensp;(0813) 2214 6567</td>
+                                <td>&nbsp;&nbsp;&ensp;(0813) 2214 6567</td>
                             </tr>
                         </table>
                     </div>
@@ -79,7 +84,7 @@
     </div>
 </section>
 
-<section class="kantor-cabang">
+<!-- <section class="kantor-cabang">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
@@ -113,10 +118,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- kontak section start -->
-<section class="contact section-padding mt-5">
+<section class="contact section-padding">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">

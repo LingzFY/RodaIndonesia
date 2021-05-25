@@ -366,13 +366,30 @@
                     <div class="contact-info-item">
                         <i class="ri-mail-send-fill"></i>
                         <h4>Email</h4>
-                        <p>rodaindonesia.1@gmail.com</p>
+                        <p>cs@rodaindonesia.site</p>
                     </div>
                     <div class="contact-info-item">
                         <i class="ri-phone-fill"></i>
                         <h4>Nomor Telepon</h4>
-                        <p>+62 877 1307 1972</p>
-                        <p>+62 813 2214 6567</p>
+                        <!-- <p>+62 877 1307 1972</p>
+                        <p>+62 813 2214 6567</p> -->
+                        <table class="table-borderless">
+                            <tr>
+                                <td>Telepon</td>
+                                <td>&nbsp;&nbsp;:  (022) 2068 2586</td>
+                            </tr>
+                            <tr>
+                                <td>Hotline&nbsp;</td>
+                                <td>&nbsp;&nbsp;:  (0813) 2220 5561</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2">Technical Service</td>
+                                <td>&nbsp;&nbsp;:  (0877) 1307 1972</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&ensp;(0813) 2214 6567</td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
             </div>

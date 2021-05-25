@@ -738,6 +738,14 @@ ul {
   color: var(--black-400);
   font-family: 'RobotoFont', sans-serif;
 }
+.contact-info-item table{
+  font-family: 'RobotoFont';
+  color: var(--black-400);
+}
+.contact-info-item table tr td{
+  padding: 3px 0;
+  vertical-align: top;
+}
 .contact-form .form-group {
   margin-bottom: 25px;
 }
@@ -820,7 +828,7 @@ footer a:hover {
 }
 footer .footer-info-item {
   position: relative;
-  padding-left: 55px;
+  padding-left: 40px;
   margin-bottom: 20px;
   text-align: left;
 }
@@ -845,6 +853,14 @@ footer .footer-info-item {
   line-height: 26px;
   color: #fff;
   font-family: 'RobotoFont', sans-serif;
+}
+.footer-info-item .table-borderless{
+  font-family: 'RobotoFont';
+  color: #fff;
+}
+.footer-info-item .table-borderless tr td{
+  padding: 3px 0;
+  vertical-align: top;
 }
 
 /* ------------------------------------------- Scroll to TOp ----------------------------------- */

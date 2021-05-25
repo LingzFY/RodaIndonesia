@@ -2,19 +2,20 @@
 <footer class="page-footer font-small bg-dark text-white">
 
     <!--Footer Links-->
-    <div class="container p-5">
+    <div class="container pt-5 px-5 px-md-0">
         <div class="row mt-5">
 
             <!--First column-->
-            <div class="col-12 col-md-6 pe-0 pe-md-5 pb-4">
+            <div class="col-12 col-md-5 pe-0 pe-md-5 pb-4">
                 <div class="page-footer-img">
                     <img src="assets/logo/logo.png" width="100px" alt="">
                 </div>
                 <div class="page-footer-text">
                     <p class="text-white mt-2">100% Karya Anak Nusantara</p>
                     <p class="text-white">Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
-                    <p class="text-white mb-0">#SatuSentuhanUntukSemua</p>
-                    <p class="text-white my-0">#Maaf,SayaDuluan!</p>
+                    <p class="text-white mb-0">#satusentuhanuntuksemua </p>
+                    <p class="text-white my-0">#maafsayadidepan</p>
+                    <p class="text-white my-0">#rodaindonesia</p>
                     <div class="social-icon my-3">
                         <ul class="list-inline py-3">
                             <li class="list-inline-item">
@@ -32,7 +33,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-md-3 pb-5 pb-md-4">
+            <div class="col-12 col-md-2 pb-5 pb-md-4">
                 <h6 class="text-uppercase fw-bold">
                     <strong>Menu</strong>
                 </h6>
@@ -42,7 +43,7 @@
                 <p><a href="?page=info_driver">Info Driver</a></p>
                 <p><a href="?page=about_us">Tentang Kami</a></p>
             </div>
-            <div class="col-12 col-md-3">
+            <div class="col-12 col-md-5">
                 <h6 class="text-uppercase fw-bold">
                     <strong>Info Kontak</strong>
                 </h6>
@@ -54,12 +55,27 @@
                     </div>
                     <div class="footer-info-item">
                         <i class="ri-mail-send-fill"></i>
-                        <p>rodaindonesia.1@gmail.com</p>
+                        <p>cs@rodaindonesia.site</p>
                     </div>
                     <div class="footer-info-item">
                         <i class="ri-phone-fill"></i>
-                        <p>(022) 20682586</p>
-                        <p>0813 2220 5561</p>
+                        <table class="table-borderless">
+                            <tr>
+                                <td>Telepon</td>
+                                <td>&nbsp;&nbsp;:  (022) 2068 2586</td>
+                            </tr>
+                            <tr>
+                                <td>Hotline&nbsp;</td>
+                                <td>&nbsp;&nbsp;:  (0813) 2220 5561</td>
+                            </tr>
+                            <tr>
+                                <td rowspan="2">Technical Service</td>
+                                <td>&nbsp;&nbsp;:  (0877) 1307 1972</td>
+                            </tr>
+                            <tr>
+                                <td>&nbsp;&nbsp;&ensp;(0813) 2214 6567</td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
             </div>

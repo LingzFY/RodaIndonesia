@@ -137,15 +137,17 @@
   background-color: #fff;
   z-index: 1;
   transition: all 750ms;
+  padding: 0px 20px;
+  min-height: 80px;
 }
 .bagan-item div {
-  border-top-right-radius: 200px;
-  border-bottom-right-radius: 200px;
+  border-radius: 200px;
   padding: 0 5px;
   background-color: #fff;
   text-align: center;
   height: 100%;
   width: 100%;
+  padding: 15px;
 }
 .bagan-item img {
   width: calc(25%);
@@ -303,7 +305,7 @@
   left: calc(-12.5% - 5px);
   top: 50%;
   height: 2px;
-  width: 100%;
+  width: 13%;
   background-color: var(--main-color);
   z-index: -1;
 }
@@ -361,7 +363,7 @@
     position: absolute;
     top: 5%;
     left: calc(12.5% - 3px) !important;
-    height: 85% !important;
+    height: 86% !important;
     width: 2px;
     background-color: var(--main-color);
     z-index: -1;
@@ -417,7 +419,7 @@
     left: calc(-12.5% + 1px) !important;
     top: 50%;
     height: 2px;
-    width: 100%;
+    width: 12%;
     background-color: var(--main-color);
     z-index: -1;
   }
@@ -489,7 +491,7 @@
     position: absolute;
     top: 5%;
     left: calc(12.5% - 3px) !important;
-    height: 85% !important;
+    height: 86% !important;
     width: 2px;
     background-color: var(--main-color);
     z-index: -1;
@@ -545,7 +547,7 @@
     left: calc(-12.5% + 1px) !important;
     top: 50%;
     height: 2px;
-    width: 100%;
+    width: 12%;
     background-color: var(--main-color);
     z-index: -1;
   }
@@ -601,7 +603,7 @@
     position: absolute;
     top: 5%;
     left: 50%;
-    height: calc(67% - 2px);
+    height: calc(66.5% - 2px);
     width: 2px;
     background-color: var(--main-color);
     z-index: -1;
@@ -652,7 +654,7 @@
     left: calc(-15% - 1px);
     top: 50%;
     height: 2px;
-    width: 100%;
+    width: 14%;
     background-color: var(--main-color);
     z-index: -1;
   }
@@ -663,7 +665,7 @@
     left: 100%;
     top: 50%;
     height: 2px;
-    width: 100%;
+    width: 50%;
     background-color: var(--main-color);
     z-index: -1;
   }
@@ -677,6 +679,7 @@
   }
   .level-3.line-right::before {
     left: calc(-12.5% - 3px) !important;
+    width: 12% !important;
   }
 }
 
