@@ -49,7 +49,7 @@
                 <div class="section-title">
                     <h2 class="text-center mt-5 mt-lg-0 text-lg-start"><span>Cerita</span> Kami</h2>
                 </div>
-                <div class="company-story-text text-center">
+                <div class="company-story-text">
                     <p>Diawali dari gerakan Anak Nusantara yang prihatin melihat tangisan masyarakat akan kesulitan ekonomi, dan pandangan terhadap digitalisasi asing, yang perlahan tanpa disadari telah menjajah bangsa secara digital, bangsa asing telah merasuki jatidiri anak bangsa, mempelajari Karakter, kebiasaan, dan kebudayaan bangsa, sehingga dapat dengan mudah ditiru dan dijadikan komoditas bagi bangsa asing. </p>
                     <p>Hal tersebut tentu akan membuat anak bangsa berada dalam posisi paling menyedihkan dalam sosial ekonomi. Indonesia adalah bangsa yang kaya raya akan rempah, hasil alam, dan budaya. namun kenyataannya banyak sekali komoditas yang dikuasai asing, “Bagaikan Tikus Mati Kelaparan Di Lumbung Padi” itu lah mungkin yang akan terjadi di nusantara apabila penjajahan digital tidak segera diantisipasi. Maka darinya RODA INDONESIA (RI) berusaha tetap fokus untuk menyelamatkan apa yang tersisa dari penjajahan digital ini.</p>
                 </div>
