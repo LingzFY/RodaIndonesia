@@ -45,6 +45,7 @@
                 <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
                 <div id="maps"></div>
             </div>
+            <hr style="background-color: gainsboro;">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 align-self-center pt-4">
                     <div class="contact-info-item">
