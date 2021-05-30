@@ -190,7 +190,7 @@
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>Operational Manager</strong></p>
+                            <p class="tim-section-jabatan"><strong>COO</strong></p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
@@ -210,13 +210,21 @@
                                 </div>
                             </div>
                         </li>
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p>
+                                </div>
+                            </div>
+                        </li>
                     </ol>
                 </li>
                 <li class="level-2-finance line-right position-relative">
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>Finance Manager</strong></p>
+                            <p class="tim-section-jabatan"><strong>CFO</strong></p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
@@ -242,10 +250,18 @@
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="h-100 d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>IT Manager</strong></p>
+                            <p class="tim-section-jabatan"><strong>CTO</strong></p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
+                        <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Programmer</strong></p>
+                                </div>
+                            </div>
+                        </li>
                         <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
@@ -268,10 +284,10 @@
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="h-100 d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>Head Business Development</strong></p>
+                            <p class="tim-section-jabatan"><strong>CMO</strong></p>
                         </div>
                     </div>
-                    <ol class="level-3-wrapper">
+                    <!-- <ol class="level-3-wrapper">
                         <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
@@ -280,7 +296,7 @@
                                 </div>
                             </div>
                         </li>
-                    </ol>
+                    </ol> -->
                 </li>
             </ol>
         </div>
@@ -466,116 +482,6 @@
                     </ol>
                 </li>
             </ol>
-        </div>
-    </div>
-</section> -->
-
-<!-- <section class="tim-section section-padding">
-    <div class="container mt-100px text-center">
-        <div class="section-title">
-            <h2 class="text-center"><span>Tim</span> Kami</h2>
-        </div>
-        <div class="row d-flex justify-content-center">
-            <div class="col-6 col-md-3 col-lg-3 text-center">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/ceo.jpg" alt="Achiel" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>CEO</strong></p>
-                    <p class="mt-0 text-center"><strong>Anne Lesar</strong></p>
-                </div>
-            </div>
-        </div>
-        <div class="row d-flex justify-content-center mt-5 g-1 g-md-4">
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/duty_manager.jpg" alt="Achiel" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Duty Manager</strong></p>
-                    <p class="mt-0 text-center"><strong>Achiel</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/finance_manager.jpg" alt="Ning" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Finance Manager</strong></p>
-                    <p class="mt-0 text-center"><strong>Ning</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/it_manager.jpg" alt="Faisal Yahya" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>IT Manager</strong></p>
-                    <p class="mt-0 text-center"><strong>Faisal Yahya</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/legal_manager.jpg" alt="James JHK" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Business Dev. Manager</strong></p>
-                    <p class="mt-0 text-center"><strong>James HK</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/head_driver.jpg" alt="Stephen" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Head Driver</strong></p>
-                    <p class="mt-0 text-center"><strong>Stephen</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/head_marketing.jpg" alt="Satrya Eka Purnama Rismawan" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Head Marketing</strong></p>
-                    <p class="mt-0 text-center"><strong>Satrya Eka Purnama Rismawan</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/admin.jpg" alt="Jalu" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Admin</strong></p>
-                    <p class="mt-0 text-center"><strong>Jalu</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/acc.jpg" alt="Yuli" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>ACC</strong></p>
-                    <p class="mt-0 text-center"><strong>Yuli</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/purchasing.png" alt="Alfianne Ayu Devy" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Purchasing</strong></p>
-                    <p class="mt-0 text-center"><strong>Alfianne Ayu Devy</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/programmer.jpg" alt="Kevin" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Programmer</strong></p>
-                    <p class="mt-0 text-center"><strong>Kevin</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/head_creative.jpg" alt="Bang Rudi" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Head Creative</strong></p>
-                    <p class="mt-0 text-center"><strong>Bang Rudi</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/head_bussiness_dev.jpg" alt="Jozeph H" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Legal</strong></p>
-                    <p class="mt-0 text-center"><strong>Jozeph H</strong></p>
-                </div>
-            </div>
-            <div class="col-3 col-md-3 col-lg-3 text-center pb-4">
-                <div class="tim-card-item h-100">
-                    <img src="assets/gambar/team/legal2.jpg" alt="Jozeph H" srcset="" class="w-100 pb-4">
-                    <p class="tim-section-jabatan mb-1 mb-md-2 mb-lg-3"><strong>Legal</strong></p>
-                    <p class="mt-0 text-center"><strong>Tri</strong></p>
-                </div>
-            </div>
         </div>
     </div>
 </section> -->
